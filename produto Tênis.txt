@@ -1,0 +1,7 @@
+produto: Tênis
+
+matéria prima: borracha natural e sintética
+acabamento: ótimo
+durabilidade: média/ 3 anos
+exeperiência do usuário: bom/ macio
+design: bom/ bem futurista
